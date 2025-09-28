@@ -2,14 +2,20 @@
 layout: main
 ---
 
-## Welcome to app-page-tempalte
+## Welcome to PackPlan
 
-app-page-tempalte is a github page template for app.
+Tired of creating the same lists for different plans?
 
-You can quickly create an app github page through it.
+Whether it's for travel, grocery shopping, or work projects, copying and editing old lists is inefficient and prone to errors.
 
-Whenever you commit to your repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+PackPlan offers you a smarter way!
 
-## Page
+## Key Features:
 
-You can click here to preview [page example](page);
+- Create Reusable Lists (Packs): Pre-organize your frequently used "Items" into master "Lists" like "Groceries," "Business Trip Essentials," or "Gym Gear."
+
+- Unmatched Flexibility: When you start a new "Plan," you don't have to import an entire list. Instead, you can pick and choose specific Items that you need for that occasion. Not buying salt this week? Simply uncheck it from your "Groceries" list.
+
+- For Any Scenario: From packing for a vacation to creating a shopping list, or from managing project tasks to planning an event, PackPlan has you covered.
+
+Download PackPlan and experience a truly flexible and efficient way to plan. Stop reinventing the wheel!
